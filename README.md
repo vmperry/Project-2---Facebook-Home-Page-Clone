@@ -1,4 +1,4 @@
-Facebook Webb Page Clone
+Facebook Home Page Clone
 
 Description
 This project is a simple HTML and CSS implementation of a Facebook-like login page. It includes a branding section, a login form, and a footer with additional links and information.
@@ -26,8 +26,6 @@ CSS
 The CSS file styles the page, providing a responsive and visually appealing layout.
 
 File Structure
-facebook-login-page/
-│
 ├── images/
 │   ├── Facebook-Logo.png
 ├── index.html
